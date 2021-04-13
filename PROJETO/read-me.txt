@@ -1,0 +1,1 @@
+o projeto trata de um banco de dados para uma locadora de veículos fictícia
